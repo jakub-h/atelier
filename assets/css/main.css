@@ -3142,3 +3142,14 @@ input, select, textarea {
 				}
 
 	}
+
+.form-container {
+    width: 100%;
+    max-width: 600px; /* Optional: Set a max width */
+    margin: 0 auto; /* Center the form */
+}
+
+iframe {
+    width: 100%;
+    border: none; /* Remove border if any */
+}
