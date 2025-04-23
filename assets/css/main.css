@@ -3153,3 +3153,7 @@ iframe {
     width: 100%;
     border: none; /* Remove border if any */
 }
+
+.no-scroll {
+    overflow: hidden;
+}
