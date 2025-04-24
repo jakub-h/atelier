@@ -3144,9 +3144,7 @@ input, select, textarea {
 	}
 
 .form-container {
-    height: 1200px;
-    min-height: 1200px;
-    max-height: 1200px;
+    height: 1100px;
     width: 100%;
     max-width: 600px; /* Optional: Set a max width */
     margin: 0 auto; /* Center the form */
